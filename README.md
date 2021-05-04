@@ -1,7 +1,9 @@
 # ansible-dev2
 ansible training 2 - learning to track my code for ansible development
 
- # ansible-dev2 (Project Title)
+# This is to learn how to version control project with git
+ 
+# ansible-dev2 (Project Title)
  
  One paragraph of your project description goes here. Describe what you're trying to do.
  What is the purpose of putting up this repo?
